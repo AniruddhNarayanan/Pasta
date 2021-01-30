@@ -1,2 +1,1 @@
-# Pasta
-how to make pasta
+The recipie is to make a pasta.
